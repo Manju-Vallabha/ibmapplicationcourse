@@ -36,7 +36,7 @@ Streamlit run app.py
 and updated version app run the following command on terminal.
 
 ```bash
-Streamlit run upp_app.py
+Streamlit run upd_ver.py
 ```
 
 ## Troubleshooting: Script Execution Policy Error on Windows
