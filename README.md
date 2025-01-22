@@ -38,3 +38,13 @@ and updated version app run the following command on terminal.
 ```bash
 Streamlit run upp_app.py
 ```
+
+## Troubleshooting: Script Execution Policy Error on Windows
+
+If you encounter an error while activating the virtual environment, such as:
+
+### Run the following command in PowerShell:
+
+```powershell
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+```
